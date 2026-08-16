@@ -1,0 +1,1 @@
+This repository holds the public [organization profile README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) for PolyglotScan (`profile/README.md`).

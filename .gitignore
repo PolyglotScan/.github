@@ -1,0 +1,12 @@
+# Allow-list
+*
+!*/
+
+!.gitignore
+!.gitattributes
+!README.md
+!profile/
+!profile/**
+
+MEMORIES.md
+**/MEMORIES.md
