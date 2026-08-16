@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PolyglotScan/polyglotscan/main/brand/raster/logo-on-dark-256.png" width="128" height="128" alt="PolyglotScan platen-and-lamp mark">
+  <img src="logo-on-dark-256.png" width="128" height="128" alt="PolyglotScan platen-and-lamp mark">
 </p>
 
 <h1 align="center">PolyglotScan</h1>
