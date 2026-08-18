@@ -7,6 +7,8 @@
 !README.md
 !profile/
 !profile/**
+!.gitmodules
+!agent-rules
 
 MEMORIES.md
 **/MEMORIES.md
