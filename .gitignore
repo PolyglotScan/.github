@@ -8,7 +8,7 @@
 !profile/
 !profile/**
 !.gitmodules
-!agent-rules
+!AGENT-RULES.md
 
 MEMORIES.md
 **/MEMORIES.md
