@@ -12,3 +12,7 @@
 
 MEMORIES.md
 **/MEMORIES.md
+!/.github/
+!/.github/workflows/
+!/.github/workflows/encoding-guard.yml
+!/.editorconfig
