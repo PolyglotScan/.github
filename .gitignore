@@ -16,3 +16,4 @@ MEMORIES.md
 !/.github/workflows/
 !/.github/workflows/encoding-guard.yml
 !/.editorconfig
+!CHANGELOG.adoc
